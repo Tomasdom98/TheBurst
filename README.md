@@ -1,5 +1,5 @@
 # Website: https://theburst-app.herokuapp.com/page1
-# Website explain portafolio: https://troopl.com/tomasdominguez/the-burst
+# Website explain and my Data Science portafolio: https://troopl.com/tomasdominguez/the-burst
 
 
 About:
